@@ -11,6 +11,8 @@ The goal of this project is to provide insights into:
 ## 📂 Dataset used :
 - <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Sales.xlsx">Bike Store Data</a>
 
+- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Screenshot%202026-08-11%20093150.png">Dashboard</a>
+
 ## 📂 Dataset Description
 The dataset is structured with the following key columns:
 
