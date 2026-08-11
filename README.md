@@ -8,6 +8,8 @@ The goal of this project is to provide insights into:
 - Profitability and margin analysis
 
 ---
+## 📂 Dataset used :
+- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Sales.xlsx">Bike Store Data</a>
 
 ## 📂 Dataset Description
 The dataset is structured with the following key columns:
