@@ -9,7 +9,7 @@ The goal of this project is to provide insights into:
 
 ---
 ## 📂 Dataset used :
-- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Sales.xlsx">Bike Store Data</a>
+- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Dataset.xlsx">\Dataset</a>
 
 - <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Screenshot%202026-08-11%20093150.png">Dashboard</a>
 
@@ -82,6 +82,16 @@ The dataset is structured with the following key columns:
    - Max order Quantity / order Price
      
 ---
+5. **🖥️ Dashboard & Business Intelligence**
+The accompanying Excel workbook is structured into multiple functional sheets designed for stakeholder reporting:
+
+- Sales Data: Cleaned, transaction-level master data table.
+
+- Pivot Table: Summarized data aggregations slicing profitability by region, product category, and customer segments.
+
+- Dashboard: Interactive executive summary layout featuring dynamic KPIs, visual charts, and slicers to filter performance dynamically.
+  
+  <img width="1836" height="878" alt="Screenshot 2026-08-11 093150" src="https://github.com/user-attachments/assets/550beca9-c4ef-4aff-a2b8-8a78f586216c" />
 
 ## 📌 Future Work
 - Predictive modeling for sales forecasting (using Prophet or ARIMA)
