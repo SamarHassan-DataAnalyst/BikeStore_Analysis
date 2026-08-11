@@ -9,7 +9,7 @@ The goal of this project is to provide insights into:
 
 ---
 ## 📂 Dataset used :
-- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Dataset.xlsx">\Dataset</a>
+- <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Bike_Dataset.xlsx">Dataset</a>
 
 - <a href="https://github.com/SamarHassan-DataAnalyst/BikeStore_Analysis/blob/main/Screenshot%202026-08-11%20093150.png">Dashboard</a>
 
